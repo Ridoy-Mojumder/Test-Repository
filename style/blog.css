@@ -17,3 +17,7 @@ ul{
     font-size: 50px;
     color: magenta;
 }
+img{
+    height: 100%;
+    width: 100%;
+}
